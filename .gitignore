@@ -1,0 +1,17 @@
+**/node_modules/
+
+**/*.log
+
+**/dist/
+**/build/
+
+**/.env
+**/.env.*
+
+**/coverage/
+
+**/.DS_Store
+**/Thumbs.db
+
+**/.vscode/
+**/.idea/
